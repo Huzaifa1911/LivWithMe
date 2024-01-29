@@ -1,1 +1,3 @@
-### Home Rental App built using UIKIT ###
+# HomeRental
+
+## Built Using UIKit
